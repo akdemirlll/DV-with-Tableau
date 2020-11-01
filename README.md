@@ -1,2 +1,2 @@
 # DV-with-Tableau
-This repo contains NBs for data visualization with Tableau
+This repo contains workbooks for data visualization with Tableau
